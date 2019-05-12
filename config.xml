@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.phonegap.helloworld" version="~1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>LetsDrink</name>
     <description>
         A blank PhoneGap app.
@@ -9,6 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <access origin="http://maps.google.com" />
     <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.8726777469633!2d-58.409011285053055!3d-34.58208806386047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb57cd90852a7%3A0x7d5491d4ef35600d!2sCabello+3200%2C+C1425APF+CABA!5e0!3m2!1ses-419!2sar!4v1553461213388" />
     <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.1795999830892!2d-58.4871341850533!3d-34.57432186344975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb66770428b4f%3A0x4f2ea00ebd08d596!2sD%C3%ADaz+Colodrero+2321%2C+C1431FLA+CABA!5e0!3m2!1ses-419!2sar!4v1553461348081" />
     <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.1028439169677!2d-58.44473988505157!3d-34.62684126622834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca37af6f52b3%3A0x95a98d3c462d5fdb!2sAv.+Pedro+Goyena+1064%2C+C1424+CABA!5e0!3m2!1ses-419!2sar!4v1553461440745" />
