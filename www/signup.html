@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <script type="text/javascript" src="cordova.js"></script>
+
+</head>
+
+<body class="signUp_body">
+    <div class="container_general">
+
+        <form id="">
+
+            <aside id="modal_signUp">
+
+                <div id="modal_signUp_content">
+                    <p class="titleSignUp">Iniciar sesión</p>
+                    <input class="inputSignUp" type="text" placeholder="Ingrese su correo" id="txtCorreo">
+                    <input class="inputSignUp" type="password" placeholder="Contraseña" id="txtContrasena">
+
+                    <div id="forgotPass">
+                        <a href="" class="a_forgotPass">He olvidado mi nombre de usuario y/o contraseña</a>
+                    </div>
+
+                    <div class="div_btns_signUp">
+                        <input type="button" id="createAccount" value="Registrarse" onclick="registrarseBtn()">
+                        <input type="button" name="" id="btnIngresar" value="Iniciar Sesion">
+
+                    </div>
+
+                </div>
+            </aside>
+
+        </form>
+
+        <form id="frmRegPersona">
+            <aside id="modal_registro">
+
+                <div id="modal_registro_content">
+                <div class="divError">Porfavor complete los campos pintados</div>
+                <p class="titleSignUp">Registrarse</p>
+                <p class="completeForm">Complete el formulario para poder ingresar</p>
+
+                <div class="input-container">
+                    <input type="text" id="txtNombre" class="inputSignUp" placeholder="Nombre de usuario" required>
+                </div>
+
+
+                <div class="input-container">
+                    <input type="text" id="txtEmail" class="inputSignUp" placeholder="Email" required>
+                </div>
+
+
+                <div class="input-container">
+                    <input type="password" id="txtContrasena" class="inputSignUp" placeholder="Contraseña" required>
+                </div>  
+
+                <input type="button" value="Registrar e ingresar" id="btnRegistrarPersona" >
+            </div>
+            </aside>
+
+        </form>
+    </div>
+
+
+    </div>
+
+    <script src="js/listaRegistro.js"></script>
+    <script src="js/logicaRegistro.js"></script>
+
+    <script src="js/logicaInterfazInicioSesion.js"></script>
+    <script src="js/scriptInicioSesion.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
