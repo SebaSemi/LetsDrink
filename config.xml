@@ -9,6 +9,10 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.8726777469633!2d-58.409011285053055!3d-34.58208806386047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb57cd90852a7%3A0x7d5491d4ef35600d!2sCabello+3200%2C+C1425APF+CABA!5e0!3m2!1ses-419!2sar!4v1553461213388" />
+    <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.1795999830892!2d-58.4871341850533!3d-34.57432186344975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb66770428b4f%3A0x4f2ea00ebd08d596!2sD%C3%ADaz+Colodrero+2321%2C+C1431FLA+CABA!5e0!3m2!1ses-419!2sar!4v1553461348081" />
+    <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.1028439169677!2d-58.44473988505157!3d-34.62684126622834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca37af6f52b3%3A0x95a98d3c462d5fdb!2sAv.+Pedro+Goyena+1064%2C+C1424+CABA!5e0!3m2!1ses-419!2sar!4v1553461440745" />
+    <access origin="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.629002238536!2d-58.37555568505199!3d-34.61354176552445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccad5143f41d9%3A0x898e495cc033810!2sBol%C3%ADvar+491%2C+C1066AAI+CABA!5e0!3m2!1ses-419!2sar!4v1553461498035" />
     <platform name="android">
         <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
